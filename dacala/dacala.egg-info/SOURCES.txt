@@ -1,0 +1,6 @@
+README.md
+setup.py
+dacala.egg-info/PKG-INFO
+dacala.egg-info/SOURCES.txt
+dacala.egg-info/dependency_links.txt
+dacala.egg-info/top_level.txt
